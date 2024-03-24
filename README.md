@@ -6,5 +6,6 @@ Features of this Application:
 3.Modify the Existing Records as the Requriment
 4.Search the Records
 5.Delete the Records
+6.We can easily store the all data into File (Secondary Storage)
 
 I complete this Application,by using Single Linked List,Dynamic Memory Allocation,Arrays,Strings & Basic Conditional Statememts etc
